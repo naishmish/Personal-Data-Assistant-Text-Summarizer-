@@ -4,3 +4,6 @@
 
 
 https://naishamishra-8000.theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/
+
+
+Learned how to implement “Retrieval Augmented Search” in Generative AI, learned how to work with LLMs, and vector store, how to create Embeddings, and how to integrate everything using Langchain. Created a real application, a chatbot, using Python, Flask, and JavaScript and packaged and deployed it using containers and Kubernetes.
